@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Victor Kauê
-Sou estudante de Ciência da Computação na Universidade Católica de Brasilia(UCB).
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorKaue&show_icons=true&theme=synthwave)
