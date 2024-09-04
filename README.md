@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorKaue&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorKaue&show_icons=true&theme=synthwave&bg_color=00000000)
 
 <!--
 **VictorKaue/VictorKaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
