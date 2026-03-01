@@ -1,20 +1,61 @@
-## Olá! Meu nome é Victor Kauê
+# Victor Kauê
 
+Computer Science Student | Data Engineering Focus  
+Future Data Infrastructure Architect  
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorKaue&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKaue)](https://github.com/VictorKaue/github-readme-stats)
-<!--
-**VictorKaue/VictorKaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Computer Science student with a strong interest in Data Engineering, distributed systems and infrastructure design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on understanding how large-scale data systems are built — from ingestion and transformation to storage and architectural decisions.
+
+I value:
+- System design thinking
+- Mathematical foundations
+- Clean and maintainable code
+- Infrastructure and performance
+
+---
+
+## Technical Stack
+
+### Languages
+Python • SQL • Swift • Java • C
+
+### Data & Engineering
+Pandas • NumPy • Relational Modeling • ETL Concepts • Data Warehousing Fundamentals
+
+### Systems & Tools
+Linux • Git • Docker • Data Structures • Algorithms
+
+---
+
+## Current Focus
+
+- Designing data pipelines from scratch
+- Deepening knowledge in database architecture
+- Studying distributed systems
+- Improving SQL and data modeling skills
+
+---
+
+## Highlight Project
+
+### 3D Interactive System (Swift + RealityKit)
+
+A 3D interactive application built using RealityKit, focused on spatial manipulation and performance optimization.
+
+Although built with Swift, the project reflects my interest in:
+- System architecture
+- Performance considerations
+- Structured design thinking
+
+---
+
+## Career Direction
+
+My goal is to build and design scalable data infrastructures capable of handling real-world complexity.
+
+I am currently preparing to work professionally in Data Engineering.
