@@ -1,61 +1,75 @@
-# Victor Kauê
+# Olá, eu sou o Victor Kauê! 👋
 
-Computer Science Student | Data Engineering Focus  
-Future Data Infrastructure Architect  
-
----
-
-## About Me
-
-I am a Computer Science student with a strong interest in Data Engineering, distributed systems and infrastructure design.
-
-My focus is on understanding how large-scale data systems are built — from ingestion and transformation to storage and architectural decisions.
-
-I value:
-- System design thinking
-- Mathematical foundations
-- Clean and maintainable code
-- Infrastructure and performance
+### Computer Science Student | Data Engineering Focus | Future Data Infrastructure Architect
 
 ---
 
-## Technical Stack
+### 📊 Estatísticas do GitHub
 
-### Languages
-Python • SQL • Swift • Java • C
-
-### Data & Engineering
-Pandas • NumPy • Relational Modeling • ETL Concepts • Data Warehousing Fundamentals
-
-### Systems & Tools
-Linux • Git • Docker • Data Structures • Algorithms
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorKaue&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKaue&layout=compact&theme=radical&langs_count=8" />
+</p>
 
 ---
 
-## Current Focus
+### 👨‍💻 Sobre Mim
 
-- Designing data pipelines from scratch
-- Deepening knowledge in database architecture
-- Studying distributed systems
-- Improving SQL and data modeling skills
+Sou estudante de Ciência da Computação com foco em **Engenharia de Dados**, sistemas distribuídos e design de infraestrutura. Meu objetivo é entender e construir sistemas de dados em larga escala — da ingestão e transformação ao armazenamento e decisões arquiteturais.
 
----
-
-## Highlight Project
-
-### 3D Interactive System (Swift + RealityKit)
-
-A 3D interactive application built using RealityKit, focused on spatial manipulation and performance optimization.
-
-Although built with Swift, the project reflects my interest in:
-- System architecture
-- Performance considerations
-- Structured design thinking
+**O que eu valorizo:**
+- Pensamento voltado para System Design
+- Fundamentos matemáticos sólidos
+- Código limpo e de fácil manutenção
+- Performance e escalabilidade de infraestrutura
 
 ---
 
-## Career Direction
+### 🛠️ Tecnologias e Ferramentas
 
-My goal is to build and design scalable data infrastructures capable of handling real-world complexity.
+**Linguagens**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-I am currently preparing to work professionally in Data Engineering.
+**Engenharia de Dados & Ferramentas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Foco Atual
+
+- 🏗️ Construção de pipelines de dados do zero.
+- 🗄️ Aprofundamento em arquitetura de bancos de dados.
+- 🌐 Estudo de sistemas distribuídos e disponibilidade.
+- 📐 Modelagem de dados avançada e otimização de queries SQL.
+
+---
+
+### 🌟 Projeto em Destaque
+
+#### [3D Interactive System (Swift + RealityKit)](LINK_DO_REPOSITORIO)
+Uma aplicação interativa 3D focada em manipulação espacial e otimização de performance. Embora desenvolvida em Swift, este projeto reflete minha abordagem em:
+- Arquitetura de sistemas complexos.
+- Considerações críticas de performance.
+- Design estruturado.
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU_USER_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
