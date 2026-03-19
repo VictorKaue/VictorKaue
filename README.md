@@ -69,7 +69,7 @@ Uma aplicação interativa 3D focada em manipulação espacial e otimização de
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_USER_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/victor-kauê-89234a322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
